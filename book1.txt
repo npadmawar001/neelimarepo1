@@ -1,0 +1,12 @@
+bid:101
+bname:C program
+bauthor:DR
+bprice:200.5
+Python1 | Rossum | 500 | 2000
+
+Python2 | Rossum |     | 2000
+
+Python3 | Rossum | 500 | 2000
+
+Python4 | Rossum | 500 | 2000
+
